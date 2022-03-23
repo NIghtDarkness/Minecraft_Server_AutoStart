@@ -15,4 +15,8 @@ Hello! c:
 
 You can download it here: [7zip](https://www.7-zip.org/)
 
+# Download
+
+[Releases](https://github.com/NIghtDarkness/Minecraft_Server_AutoStart/releases)
+
 _Coded by NightDarkness c:_
