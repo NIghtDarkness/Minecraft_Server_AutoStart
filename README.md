@@ -13,6 +13,6 @@ Hello! c:
 
 **Important: it is necessary to have 7zip installed and to be added to Windows Path so that the backups can be generated!**
 
-You can download it here: 7-zip.org
+You can download it here: [7zip](https://www.7-zip.org/)
 
 _Coded by NightDarkness c:_
