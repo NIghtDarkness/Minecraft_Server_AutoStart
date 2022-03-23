@@ -10,6 +10,7 @@ Hello! c:
 
 ### Note
 **To remove the program restart the app and press the "Remove" button.**
+
 **Important: it is necessary to have 7zip installed and to be added to Windows Path so that the backups can be generated!**
 
 You can download it here: 7-zip.org
